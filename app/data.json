@@ -1,0 +1,337 @@
+{
+  "concept": {
+    "companyName": "BoardSort.nl",
+    "tagline": "Jouw oude elektronica, eerlijk beloond",
+    "sector": "E-waste recycling & inkoop pc-componenten",
+    "colors": {
+      "primary": "#36abfc",
+      "secondary": "#0a7fd4",
+      "accent": "#e8f6ff",
+      "background": "#f0f8ff",
+      "text": "#0d1f2d"
+    },
+    "styleOverrides": {
+      "borderRadius": "10px",
+      "fontStyle": "modern sans-serif, technical clarity",
+      "heroLayout": "split-left-photo-right-form",
+      "cardStyle": "clean white cards with blue-tinted shadows, sharp but friendly",
+      "uspBandBg": "#daeeff",
+      "footerBg": "#0d1f2d",
+      "ctaBannerBg": "#0a7fd4"
+    },
+    "contact": {
+      "phone": "+31 6 53716533",
+      "email": "info@boardsort.nl",
+      "address": "Willemsplein 6, 1975 EX IJmuiden"
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "youtube": ""
+    },
+    "heroTitle": "Verkoop je pc-onderdelen snel & eerlijk",
+    "heroSubtitle": "BoardSort.nl koopt gebruikte pc-componenten op — snel beoordeeld, eerlijk geprijsd en gratis verzonden vanuit heel Nederland.",
+    "heroBadge": "Duurzaam & betrouwbaar",
+    "heroButtonText": "Bereken je opbrengst",
+    "uspCards": [
+      {
+        "icon": "Zap",
+        "title": "Binnen 24 uur uitbetaald",
+        "description": "Na ontvangst van je onderdelen beoordelen wij ze dezelfde dag en maken je betaling direct over."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Gratis verzenden",
+        "description": "Wij vergoeden de verzendkosten — print simpelweg het label, drop je pakket af en klaar."
+      },
+      {
+        "icon": "Shield",
+        "title": "100% veilige afhandeling",
+        "description": "Al je data wordt professioneel gewist conform geldende privacynormen. Geen zorgen achteraf."
+      },
+      {
+        "icon": "Euro",
+        "title": "Eerlijke marktprijs",
+        "description": "Onze prijzen worden dagelijks bijgewerkt op basis van actuele marktwaarde van componenten."
+      }
+    ],
+    "about": {
+      "title": "Wie is BoardSort.nl?",
+      "text": "BoardSort.nl is opgericht vanuit een simpele overtuiging: wie zijn oude pc-onderdelen wil kwijtraken, verdient een eerlijk bod en een soepel proces. Vanuit IJmuiden bedienen wij particulieren en bedrijven door heel Nederland die hun hardware een tweede leven willen geven.\n\nWij zijn gespecialiseerd in de inkoop van moederborden, grafische kaarten, processors, RAM en complete systemen. Door onze technische kennis en dagelijks bijgehouden prijsdatabase weten wij precies wat jouw component waard is op de huidige markt — zonder gedoe en zonder verrassingen.\n\nDuurzaamheid staat bij ons centraal. Componenten die herverkoop waard zijn, krijgen een nieuw leven. Wat overblijft, verwerken wij op verantwoorde wijze als e-waste. Zo houd jij je geweten schoon én houd je wat geld over.",
+      "yearsExperience": "7",
+      "checklistItems": [
+        "Dagelijks bijgewerkte inkoopprijzen",
+        "Gratis verzendlabel voor heel Nederland",
+        "Veilige dataverwijdering op elke schijf",
+        "Inkoop bij zowel particulieren als bedrijven",
+        "Transparante beoordeling zonder verborgen kosten"
+      ]
+    },
+    "partners": [],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom BoardSort.nl?",
+      "sectionText": "Wij maken het recyclen van e-waste zo eenvoudig en eerlijk mogelijk — voor iedereen.",
+      "items": [
+        {
+          "icon": "BarChart",
+          "title": "Realtime marktprijzen",
+          "description": "Onze inkoopprijzen worden elke dag bijgewerkt op basis van internationale componentmarkten."
+        },
+        {
+          "icon": "ClipboardCheck",
+          "title": "Transparant beoordelingsproces",
+          "description": "Je krijgt een gedetailleerd overzicht van hoe elk onderdeel is beoordeeld en wat je daarvoor ontvangt."
+        },
+        {
+          "icon": "Globe",
+          "title": "Landelijke dekking",
+          "description": "Of je nu in Amsterdam, Eindhoven of Groningen zit — wij halen je zending gratis op via ons verzendnetwerk."
+        },
+        {
+          "icon": "Layers",
+          "title": "Breed componentenaanbod",
+          "description": "Van losse GPU's en CPU's tot complete werkstations — wij kopen vrijwel alle pc-hardware op."
+        },
+        {
+          "icon": "Heart",
+          "title": "Verantwoorde e-waste verwerking",
+          "description": "Wat niet herverkocht kan worden, verwerken wij milieuvriendelijk via gecertificeerde recyclingpartners."
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Inkoop moederborden",
+        "description": "Wij kopen moederborden op van alle gangbare fabrikanten zoals ASUS, MSI, Gigabyte en ASRock. Controleer je model in onze inzendlijst en ontvang een directe prijsopgave. Geen oud ijzer bij ons — elk board wordt vakkundig beoordeeld.",
+        "imagePrompt": "Close-up of a clean ATX motherboard with detailed PCB traces, metallic heatsinks and RAM slots visible, studio lighting on a white surface, technical product photography"
+      },
+      {
+        "name": "Inkoop grafische kaarten",
+        "description": "Van gaming-GPU's tot professionele workstation-kaarten: wij kennen de marktwaarde van elk model. Stuur je GPU op met ons gratis verzendlabel en ontvang binnen 24 uur je uitbetaling. NVIDIA en AMD beide welkom.",
+        "imagePrompt": "High-end graphics card with cooling fans and RGB accents laid on a reflective surface under soft studio lighting, extreme detail product photography, neutral background"
+      },
+      {
+        "name": "Inkoop processors",
+        "description": "Intel en AMD processors van de afgelopen generaties kopen wij graag van je op. Gebruik onze prijscalculator om direct te zien wat jouw CPU waard is. Processors worden getest op echtheid en functionaliteit.",
+        "imagePrompt": "AMD and Intel processor chips side by side on a clean white surface, macro photography showing intricate circuit details and gold contact pins, diffused studio lighting"
+      },
+      {
+        "name": "Inkoop RAM-geheugen",
+        "description": "DDR3, DDR4 en DDR5 modules kopen wij per stick of per kit op. Werkende modules krijgen een eerlijke prijs gebaseerd op capaciteit en snelheid. Defecte modules nemen wij eveneens in voor verantwoorde e-waste verwerking.",
+        "imagePrompt": "Stack of DDR4 RAM sticks arranged neatly on a white background, close-up technical product photography showing heat spreaders and memory chips, bright diffused light"
+      },
+      {
+        "name": "E-waste verwerking bedrijven",
+        "description": "Bedrijven die hardware vernieuwen of kantoren ontruimen kunnen hun volledige IT-afval bij ons aanbieden. Wij verwerken alles conform de WEEE-richtlijn en leveren een afvalcertificaat. Inclusief datavernietiging op alle opslagmedia.",
+        "imagePrompt": "Neatly organized collection of old computers, monitors and electronic equipment in a clean industrial recycling facility, bright modern interior, technical environment"
+      },
+      {
+        "name": "Prijscalculator",
+        "description": "Niet zeker wat je onderdelen waard zijn? Gebruik onze online calculator om in seconden een indicatie te krijgen. Selecteer je component, voer het model in en zie direct een eerlijke inkoopprijs verschijnen. Geen verplichtingen.",
+        "imagePrompt": "Person using a modern laptop to browse a clean tech website with pricing tool, bright home office environment, soft natural light, shallow depth of field"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "List",
+        "title": "Controleer de inzendlijst",
+        "description": "Zoek je onderdelen op in onze inzendlijst en zie direct of we ze innemen en wat ze opleveren."
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Verpak je zending",
+        "description": "Pak je componenten zorgvuldig in en print het gratis verzendlabel dat wij voor je aanmaken."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Stuur het op",
+        "description": "Drop je pakket af bij een PostNL-punt bij jou in de buurt. Wij ontvangen je zending en starten de beoordeling."
+      },
+      {
+        "icon": "Euro",
+        "title": "Ontvang je betaling",
+        "description": "Binnen 24 uur na ontvangst krijg je een overzicht en wordt het bedrag direct op je rekening gestort."
+      }
+    ],
+    "stepsTitle": "Zo werkt het",
+    "stepsText": "In vier stappen van oud hardware naar geld op je rekening. Simpel, snel en volledig transparant.",
+    "projects": [],
+    "blogPosts": [
+      {
+        "title": "Wat is mijn oude GPU nog waard in 2025?",
+        "excerpt": "De markt voor tweedehands grafische kaarten beweegt snel. In dit artikel leggen we uit welke GPU-generaties nog interessant zijn en waar de grens ligt tussen inkoop en e-waste verwerking.",
+        "imagePrompt": "Used graphics cards sorted on a workbench in a clean tech workshop, detailed close-up of GPU PCB and fan assembly, bright technical lighting, product photography style"
+      },
+      {
+        "title": "Waarom dataverwijdering verplicht is bij hardware-inlevering",
+        "excerpt": "Veel mensen beseffen niet dat een oude SSD of harde schijf nog volledige bestanden kan bevatten. Wij leggen uit hoe wij data veilig verwijderen en waarom dit wettelijk vereist is.",
+        "imagePrompt": "Close-up of a hard drive and SSD being inspected in a clean lab environment, gloves visible, bright white clinical lighting, technical and precise atmosphere"
+      },
+      {
+        "title": "Bedrijfshardware vervangen? Zo doe je het slim én duurzaam",
+        "excerpt": "Een kantoorverhuizing of IT-refresh hoeft niet te eindigen in een container. Ontdek hoe bedrijven hun oude hardware kunnen inleveren en er nog iets aan kunnen verdienen.",
+        "imagePrompt": "Organized rows of old office computers and monitors being collected in a modern clean recycling facility, wide shot, bright industrial lighting, professional environment"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Daan Vermeulen",
+        "company": "Particulier, Utrecht",
+        "quote": "Supersnelle afhandeling. Ik stuurde mijn oude RTX 3070 op maandagochtend op en had dinsdagmiddag al het geld op mijn rekening. Prijs was ook beter dan ik verwachtte.",
+        "rating": 5
+      },
+      {
+        "name": "Sandra Boersma",
+        "company": "Administratiekantoor Boersma, Haarlem",
+        "quote": "Wij hadden twaalf oude werkstations na onze hardware-vernieuwing. BoardSort.nl regelde alles inclusief het verzendlabel en een afvalcertificaat. Geen gedoe, prima prijs.",
+        "rating": 5
+      },
+      {
+        "name": "Koen de Vries",
+        "company": "Particulier, Rotterdam",
+        "quote": "Duidelijke inzendlijst, eerlijke beoordeling en snel geld. Ik heb mijn complete oude gaming-pc opgestuurd en er niets meer van hoeven te horen — dat bedoel ik positief.",
+        "rating": 5
+      },
+      {
+        "name": "Mirjam Laan",
+        "company": "Grafisch ontwerpbureau, Amsterdam",
+        "quote": "Als ontwerper heb ik regelmatig verouderde werkstations over. BoardSort.nl is inmiddels mijn vaste partner voor hardware-afvoer. Betrouwbaar en netjes geregeld.",
+        "rating": 5
+      }
+    ],
+    "pricing": null,
+    "ctaTitle": "Klaar om je hardware in te sturen?",
+    "ctaText": "Controleer de inzendlijst, bereken je opbrengst en stuur je onderdelen gratis op. Betaling volgt binnen 24 uur na ontvangst.",
+    "ctaButtonText": "Bereken je opbrengst",
+    "footerTagline": "Eerlijke inkoop van pc-componenten in heel Nederland.",
+    "footerLinks": [
+      {
+        "label": "Home",
+        "href": "#"
+      },
+      {
+        "label": "Werkwijze",
+        "href": "#"
+      },
+      {
+        "label": "Bereken opbrengst",
+        "href": "#"
+      },
+      {
+        "label": "Inzendlijst",
+        "href": "#"
+      },
+      {
+        "label": "Verzenden",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "",
+      "btw": "",
+      "iban": "",
+      "whatsappNumber": "+31653716533"
+    },
+    "seoTitle": "BoardSort.nl — Verkoop je pc-onderdelen snel & eerlijk",
+    "seoDescription": "BoardSort.nl koopt gebruikte pc-componenten op: moederborden, GPU's, CPU's en meer. Gratis verzenden, eerlijke marktprijs en uitbetaling binnen 24 uur. Voor particulieren en bedrijven in heel Nederland.",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Onze diensten",
+      "heroText": "Van moederborden tot complete systemen — BoardSort.nl koopt vrijwel alle pc-componenten op en verwerkt e-waste verantwoord.",
+      "sectionTitle": "Wat wij inkopen",
+      "sectionText": "Wij bieden een eerlijke inkoopprijs voor een breed scala aan pc-hardware. Of je nu één GPU hebt of een complete serverruimte wil ontruimen — wij regelen het.",
+      "uspTitle": "Waar BoardSort.nl voor staat",
+      "uspText": "Transparantie en eerlijkheid zijn de kern van onze dienstverlening. Wij laten je altijd weten waarop een beoordeling is gebaseerd en hanteren geen verborgen kosten of onverwachte kortingen na verzending.\n\nNaast eerlijke inkoop zorgen wij voor verantwoorde e-waste verwerking van alles wat niet herverkocht kan worden. Zo sluit je de kringloop op een duurzame manier.",
+      "uspChecklist": [
+        "Dagelijks bijgewerkte inkoopprijzen",
+        "Gratis verzendlabel voor particulieren en bedrijven",
+        "Gecertificeerde dataverwijdering",
+        "Afvalcertificaat op aanvraag voor bedrijven",
+        "Snelle uitbetaling binnen 24 uur"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Projecten",
+      "heroText": "Een overzicht van grotere inzamelprojecten en bedrijfsopdrachten die wij succesvol hebben afgerond.",
+      "gridTitle": "Afgeronde opdrachten",
+      "gridText": "Van kleine kantoorruimtes tot complete datacenter-ontruimingen — wij hebben ervaring met uiteenlopende e-waste projecten."
+    },
+    "overOns": {
+      "heroTitle": "Over BoardSort.nl",
+      "heroText": "Wij zijn een Nederlands bedrijf met een missie: eerlijke inkoop van pc-hardware en verantwoorde e-waste recycling voor iedereen.",
+      "storyTitle": "Ons verhaal",
+      "storyText": "BoardSort.nl is ontstaan uit frustratie. Wie zijn oude pc-onderdelen wilde verkopen, strandde op onbetrouwbare marktplaatsen, onduidelijke beoordelingen en langdurige onderhandelingen. Wij zagen dat dit anders kon — eerlijker, sneller en transparanter.\n\nVanuit IJmuiden zijn wij begonnen met de inkoop van moederborden en grafische kaarten van particulieren. Al snel kwamen daar bedrijven bij die hun IT-hardware wilden afvoeren bij een betrouwbare partner. Onze aanpak — dagelijkse marktprijzen, gratis verzending en snelle uitbetaling — bleek precies wat de markt nodig had.\n\nVandaag verwerken wij zendingen van heel Nederland. Wij geloven dat duurzaamheid en eerlijkheid hand in hand gaan: elk component dat een tweede leven krijgt, is een win voor de portemonnee én voor het milieu. Dat drijft ons elke dag opnieuw."
+    },
+    "contactPage": {
+      "heroTitle": "Contact",
+      "heroText": "Heb je een vraag over je zending, een inkoopprijs of een zakelijk project? We helpen je graag snel verder.",
+      "detailsTitle": "Direct in contact",
+      "detailsText": "Je kunt ons bereiken via telefoon, e-mail of WhatsApp. We reageren doorgaans binnen één werkdag — bij dringende vragen bel je ons gewoon.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Staat jouw vraag er niet bij? Neem dan gewoon contact op — wij helpen je snel verder.",
+      "faq": [
+        {
+          "question": "Welke onderdelen kopen jullie op?",
+          "answer": "Wij kopen moederborden, grafische kaarten, processors, RAM-geheugen, SSDs, harde schijven en complete systemen op. Controleer onze inzendlijst voor een volledig overzicht van geaccepteerde componenten en actuele prijzen."
+        },
+        {
+          "question": "Hoe snel word ik uitbetaald?",
+          "answer": "Na ontvangst van je zending beoordelen wij de onderdelen doorgaans dezelfde dag. Je ontvangt een beoordelingsoverzicht en de betaling wordt binnen 24 uur overgemaakt naar je opgegeven bankrekening."
+        },
+        {
+          "question": "Zijn er verzendkosten?",
+          "answer": "Nee, wij vergoeden de verzendkosten volledig. Via onze website genereer je een gratis verzendlabel van PostNL dat je kunt afdrukken en meegeven aan het pakket. Er zijn geen verborgen kosten."
+        },
+        {
+          "question": "Wat gebeurt er met mijn data op schijven?",
+          "answer": "Alle opslagmedia worden professioneel gewist via gecertificeerde software die voldoet aan geldende privacynormen. Fysiek beschadigde schijven worden mechanisch vernietigd. Op aanvraag leveren wij een datavernietigingscertificaat."
+        },
+        {
+          "question": "Kunnen bedrijven ook hardware aanbieden?",
+          "answer": "Absoluut. Wij werken regelmatig samen met bedrijven die hun IT-hardware vervangen of kantoorruimtes ontruimen. Neem contact op voor een zakelijk traject inclusief afvalcertificaat en eventuele ophaalservice bij grotere hoeveelheden."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Photorealistic commercial photo of neatly sorted PC components including motherboards GPU and RAM on a clean white workbench in a modern tech facility, bright diffused studio lighting, blue-tinted ambient glow, professional technical environment Netherlands",
+      "about": "Friendly professional technician in a clean modern e-waste facility inspecting a circuit board, bright interior lighting, organized shelving with electronics in background, approachable and precise atmosphere",
+      "uniqueBg": "Dark abstract background with faint printed circuit board patterns and metallic textures, deep navy blue tones, subtle glowing traces, technical and modern digital aesthetic",
+      "stepsBg": "Clean minimal tech workspace with white surface and scattered PC components in soft focus background, bright cool natural light, calm and organized atmosphere",
+      "ctaBg": "Aerial view of a clean tech recycling facility with sorted electronic components on conveyor belts, cool blue industrial lighting, modern and efficient environment",
+      "dienstenHero": "Wide shot of a professional electronics recycling workspace with categorized PC parts on shelves, bright white lighting, clean and organized modern facility, technical precision",
+      "dienstenUsp": "Close-up layered texture of circuit boards stacked together showing colorful PCB traces resistors and capacitors, macro photography bright diffused light blue and green tones",
+      "projectenHero": "Large organized collection of old office computers and servers being sorted in a clean industrial Dutch recycling center, bright overhead lighting, professional technical atmosphere",
+      "overOnsHero": "Exterior of a modern clean industrial building in IJmuiden Netherlands on a bright day, clean architecture, professional signage, soft natural daylight",
+      "overOnsStory": "Team of two friendly technicians in a clean electronics workshop reviewing a laptop and circuit board together, bright modern Dutch industrial interior, approachable and collaborative mood",
+      "contactHero": "Minimalist clean Dutch office interior with a desk phone laptop and a window with soft natural daylight, calm professional atmosphere, neutral tones with slight blue ambient light"
+    }
+  },
+  "logoUrl": "data:image/png;base64,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",
+  "images": {}
+}
